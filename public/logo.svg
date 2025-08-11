@@ -1,0 +1,14 @@
+<svg width="320" height="60" viewBox="0 0 320 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gear icon -->
+  <circle cx="30" cy="30" r="12" stroke="#1D4ED8" stroke-width="3" fill="none"/>
+  <path d="M30 18 L30 10 M30 50 L30 42 M18 30 L10 30 M50 30 L42 30 M22 22 L16 16 M38 38 L44 44 M22 38 L16 44 M38 22 L44 16" stroke="#1D4ED8" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="30" cy="30" r="5" fill="#1D4ED8"/>
+
+  <!-- Text -->
+  <text x="70" y="38" font-family="Poppins, sans-serif" font-weight="700" font-size="26" fill="#1D4ED8">
+    AI
+  </text>
+  <text x="110" y="38" font-family="Poppins, sans-serif" font-weight="400" font-size="20" fill="#1D4ED8">
+    Interview Coach
+  </text>
+</svg>
